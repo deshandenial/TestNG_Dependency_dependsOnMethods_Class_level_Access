@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>TestNG_Dependency_dependsOnMethods_Class_level_Access</name>
+	<name>TestNG_Dependency_dependsOnMethods_Annotation_level</name>
 	<comment></comment>
 	<projects>
 	</projects>
